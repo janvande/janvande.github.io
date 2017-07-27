@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+image: ![Image of Yaktocat](https://janvande.github.io/100run.png)
 
 You can use the [editor on GitHub](https://github.com/janvande/janvande.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,4 +1,4 @@
-![Image of 100run](https://janvande.github.io/100run.png)
+![Image of 100run](https://janvande.github.io/100run.png){width: 50%; height: 50%}
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/janvande/janvande.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

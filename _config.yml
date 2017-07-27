@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
 title: Welcome to the QuadRun homepage!
 description: Feel free to bookmark this to keep an eye on my project updates
-![Image of Yaktocat](100run.png)
-Format: ![Alt Text](url)
+image: ![Image of Yaktocat](100run.png)
